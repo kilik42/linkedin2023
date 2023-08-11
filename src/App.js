@@ -12,6 +12,7 @@ function App() {
       {/* header */}
       <Header />
       {/* app body */}
+      
         {/* sidebar */}
         {/* feed */}
         {/* widgets */}
